@@ -137,7 +137,7 @@ Para entornos con DHCP dinámico, la documentación técnica incluye la configur
 
 ## Video demostrativo
 
-**Enlace:** [https://youtu.be/DNBmjy7cqAo](https://youtu.be/DNBmjy7cqAo)
+**Enlace:** [https://www.youtube.com/watch?v=DNBmjy7cqAo&list=PLxMefEiS_P6q8N0wKhpkK-Jj_UT1Bmuzp](https://www.youtube.com/watch?v=DNBmjy7cqAo&list=PLxMefEiS_P6q8N0wKhpkK-Jj_UT1Bmuzp)
 
 ---
 
